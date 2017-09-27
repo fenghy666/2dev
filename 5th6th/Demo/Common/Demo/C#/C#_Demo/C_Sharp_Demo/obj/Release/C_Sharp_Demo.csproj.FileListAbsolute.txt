@@ -1,0 +1,38 @@
+D:\Work\bx-144-p\trunk\BX-IV Dynamic Library\C#_Demo\C_Sharp_Demo\bin\Release\C_Sharp_Demo.exe.config
+D:\Work\bx-144-p\trunk\BX-IV Dynamic Library\C#_Demo\C_Sharp_Demo\bin\Release\C_Sharp_Demo.exe
+D:\Work\bx-144-p\trunk\BX-IV Dynamic Library\C#_Demo\C_Sharp_Demo\bin\Release\C_Sharp_Demo.pdb
+D:\Work\bx-144-p\trunk\BX-IV Dynamic Library\C#_Demo\C_Sharp_Demo\obj\Release\C_Sharp_Demo.Form1.resources
+D:\Work\bx-144-p\trunk\BX-IV Dynamic Library\C#_Demo\C_Sharp_Demo\obj\Release\C_Sharp_Demo.Form2.resources
+D:\Work\bx-144-p\trunk\BX-IV Dynamic Library\C#_Demo\C_Sharp_Demo\obj\Release\C_Sharp_Demo.Properties.Resources.resources
+D:\Work\bx-144-p\trunk\BX-IV Dynamic Library\C#_Demo\C_Sharp_Demo\obj\Release\C_Sharp_Demo.csproj.GenerateResource.Cache
+D:\Work\bx-144-p\trunk\BX-IV Dynamic Library\C#_Demo\C_Sharp_Demo\obj\Release\C_Sharp_Demo.exe
+D:\Work\bx-144-p\trunk\BX-IV Dynamic Library\C#_Demo\C_Sharp_Demo\obj\Release\C_Sharp_Demo.pdb
+D:\Work\b0110\trunk\code\BX-IV Dynamic Library\C#_Demo\C_Sharp_Demo\bin\Release\C_Sharp_Demo.exe.config
+D:\Work\b0110\trunk\code\BX-IV Dynamic Library\C#_Demo\C_Sharp_Demo\obj\Release\C_Sharp_Demo.exe
+D:\Work\b0110\trunk\code\BX-IV Dynamic Library\C#_Demo\C_Sharp_Demo\obj\Release\C_Sharp_Demo.pdb
+D:\Work\b0110\trunk\code\BX-IV Dynamic Library\C#_Demo\C_Sharp_Demo\bin\Release\C_Sharp_Demo.exe
+D:\Work\b0110\trunk\code\BX-IV Dynamic Library\C#_Demo\C_Sharp_Demo\bin\Release\C_Sharp_Demo.pdb
+D:\Work\b0110\trunk\code\BX-IV Dynamic Library\C#_Demo\C_Sharp_Demo\obj\Release\C_Sharp_Demo.Form1.resources
+D:\Work\b0110\trunk\code\BX-IV Dynamic Library\C#_Demo\C_Sharp_Demo\obj\Release\C_Sharp_Demo.Properties.Resources.resources
+D:\Work\b0110\trunk\code\BX-IV Dynamic Library\C#_Demo\C_Sharp_Demo\obj\Release\C_Sharp_Demo.csproj.GenerateResource.Cache
+D:\Work\b0110\trunk\code\BX-IV Dynamic Library\C#_Demo\C_Sharp_Demo\obj\Release\C_Sharp_Demo.csprojResolveAssemblyReference.cache
+D:\工作\b0110\trunk\code\BX-IV Dynamic Library\C#_Demo\C_Sharp_Demo\bin\Release\C_Sharp_Demo.exe.config
+D:\工作\b0110\trunk\code\BX-IV Dynamic Library\C#_Demo\C_Sharp_Demo\obj\Release\C_Sharp_Demo.exe
+D:\工作\b0110\trunk\code\BX-IV Dynamic Library\C#_Demo\C_Sharp_Demo\obj\Release\C_Sharp_Demo.pdb
+D:\工作\b0110\trunk\code\BX-IV Dynamic Library\C#_Demo\C_Sharp_Demo\bin\Release\C_Sharp_Demo.exe
+D:\工作\b0110\trunk\code\BX-IV Dynamic Library\C#_Demo\C_Sharp_Demo\bin\Release\C_Sharp_Demo.pdb
+D:\工作\b0110\trunk\code\BX-IV Dynamic Library\C#_Demo\C_Sharp_Demo\obj\Release\C_Sharp_Demo.Form1.resources
+D:\工作\b0110\trunk\code\BX-IV Dynamic Library\C#_Demo\C_Sharp_Demo\obj\Release\C_Sharp_Demo.Properties.Resources.resources
+D:\工作\b0110\trunk\code\BX-IV Dynamic Library\C#_Demo\C_Sharp_Demo\obj\Release\C_Sharp_Demo.csproj.GenerateResource.Cache
+D:\工作\b0110\trunk\code\BX-IV Dynamic Library\C#_Demo\C_Sharp_Demo\obj\Release\C_Sharp_Demo.Form2.resources
+D:\工作\b0110\trunk\code\BX-IV Dynamic Library\C#_Demo\C_Sharp_Demo\obj\Release\C_Sharp_Demo.csprojResolveAssemblyReference.cache
+E:\pub\dev2nd\materials\BX-5XX\Others\Common\Demo\C#\C#_Demo\C_Sharp_Demo\bin\x86\Release\C_Sharp_Demo.exe.config
+E:\pub\dev2nd\materials\BX-5XX\Others\Common\Demo\C#\C#_Demo\C_Sharp_Demo\obj\Release\C_Sharp_Demo.exe
+E:\pub\dev2nd\materials\BX-5XX\Others\Common\Demo\C#\C#_Demo\C_Sharp_Demo\obj\Release\C_Sharp_Demo.pdb
+E:\pub\dev2nd\materials\BX-5XX\Others\Common\Demo\C#\C#_Demo\C_Sharp_Demo\bin\x86\Release\C_Sharp_Demo.exe
+E:\pub\dev2nd\materials\BX-5XX\Others\Common\Demo\C#\C#_Demo\C_Sharp_Demo\bin\x86\Release\C_Sharp_Demo.pdb
+E:\pub\dev2nd\materials\BX-5XX\Others\Common\Demo\C#\C#_Demo\C_Sharp_Demo\obj\Release\C_Sharp_Demo.csprojResolveAssemblyReference.cache
+E:\pub\dev2nd\materials\BX-5XX\Others\Common\Demo\C#\C#_Demo\C_Sharp_Demo\obj\Release\C_Sharp_Demo.Form1.resources
+E:\pub\dev2nd\materials\BX-5XX\Others\Common\Demo\C#\C#_Demo\C_Sharp_Demo\obj\Release\C_Sharp_Demo.Form2.resources
+E:\pub\dev2nd\materials\BX-5XX\Others\Common\Demo\C#\C#_Demo\C_Sharp_Demo\obj\Release\C_Sharp_Demo.Properties.Resources.resources
+E:\pub\dev2nd\materials\BX-5XX\Others\Common\Demo\C#\C#_Demo\C_Sharp_Demo\obj\Release\C_Sharp_Demo.csproj.GenerateResource.Cache

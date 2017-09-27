@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BXEDemoC.Form1.resources
+obj\Debug\BXEDemoC.Properties.Resources.resources
+obj\Debug\BXEDemoC.csproj.GenerateResource.Cache
+bin\Debug\BXEDemoC.exe
+bin\Debug\BXEDemoC.pdb
+obj\Debug\BXEDemoC.exe
+obj\Debug\BXEDemoC.pdb

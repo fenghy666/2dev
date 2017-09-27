@@ -1,0 +1,25 @@
+﻿生成启动时间为 2017/5/9 10:28:41。
+     1>项目“E:\pub\dev2nd\materials\BX-5XX\Others\Dynamic\Demo\VC\VC_Demo\VC_Demo\VC_Demo.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Release\VC_Demo.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\VC_Demo.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\VC_Demo.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt VC_Demo.cpp VC_DemoDlg.cpp
+         VC_Demo.cpp
+         VC_DemoDlg.cpp
+       ResourceCompile:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IRelease\ /nologo /fo"Release\VC_Demo.res" VC_Demo.rc 
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\pub\dev2nd\materials\BX-5XX\Others\Dynamic\Demo\VC\VC_Demo\Release\VC_Demo.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /ManifestFile:"Release\VC_Demo.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\pub\dev2nd\materials\BX-5XX\Others\Dynamic\Demo\VC\VC_Demo\Release\VC_Demo.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\pub\dev2nd\materials\BX-5XX\Others\Dynamic\Demo\VC\VC_Demo\Release\VC_Demo.lib" /MACHINE:X86 Release\VC_Demo.res
+         Release\stdafx.obj
+         Release\VC_Demo.obj
+         Release\VC_DemoDlg.obj
+         正在生成代码
+         已完成代码的生成
+     1>LINK : fatal error LNK1123: 转换到 COFF 期间失败: 文件无效或损坏
+     1>已完成生成项目“E:\pub\dev2nd\materials\BX-5XX\Others\Dynamic\Demo\VC\VC_Demo\VC_Demo\VC_Demo.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.23
