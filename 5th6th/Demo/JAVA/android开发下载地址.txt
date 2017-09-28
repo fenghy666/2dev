@@ -1,0 +1,4 @@
+5代控制卡
+https://github.com/api2doc/onbon.bx05.mobiledemo
+6代控制卡
+https://github.com/api2doc/onbon.bx06.mobiledemo
