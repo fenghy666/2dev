@@ -1,0 +1,61 @@
+C:\Users\Kai\Documents\Visual Studio 2010\Projects\LedYQNetSdkDemo\LedYQNetSdkDemo\bin\Release\LedYQNetSdkDemo.exe.config
+C:\Users\Kai\Documents\Visual Studio 2010\Projects\LedYQNetSdkDemo\LedYQNetSdkDemo\bin\Release\LedYQNetSdkDemo.exe
+C:\Users\Kai\Documents\Visual Studio 2010\Projects\LedYQNetSdkDemo\LedYQNetSdkDemo\bin\Release\LedYQNetSdkDemo.pdb
+C:\Users\Kai\Documents\Visual Studio 2010\Projects\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.csprojResolveAssemblyReference.cache
+C:\Users\Kai\Documents\Visual Studio 2010\Projects\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.Bright.resources
+C:\Users\Kai\Documents\Visual Studio 2010\Projects\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.Client.resources
+C:\Users\Kai\Documents\Visual Studio 2010\Projects\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.ClockArea.resources
+C:\Users\Kai\Documents\Visual Studio 2010\Projects\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.CounterArea.resources
+C:\Users\Kai\Documents\Visual Studio 2010\Projects\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.DynamicArea.resources
+C:\Users\Kai\Documents\Visual Studio 2010\Projects\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.FirmWarea.resources
+C:\Users\Kai\Documents\Visual Studio 2010\Projects\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.Form1.resources
+C:\Users\Kai\Documents\Visual Studio 2010\Projects\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.ImageArea.resources
+C:\Users\Kai\Documents\Visual Studio 2010\Projects\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.LunArea.resources
+C:\Users\Kai\Documents\Visual Studio 2010\Projects\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.Net.resources
+C:\Users\Kai\Documents\Visual Studio 2010\Projects\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.OnOff.resources
+C:\Users\Kai\Documents\Visual Studio 2010\Projects\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.PicRef.resources
+C:\Users\Kai\Documents\Visual Studio 2010\Projects\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.PlayList.resources
+C:\Users\Kai\Documents\Visual Studio 2010\Projects\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.pProgram.resources
+C:\Users\Kai\Documents\Visual Studio 2010\Projects\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.Properties.Resources.resources
+C:\Users\Kai\Documents\Visual Studio 2010\Projects\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.ScreenProperty.resources
+C:\Users\Kai\Documents\Visual Studio 2010\Projects\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.Server.resources
+C:\Users\Kai\Documents\Visual Studio 2010\Projects\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.StrPage.resources
+C:\Users\Kai\Documents\Visual Studio 2010\Projects\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.StrrefPage.resources
+C:\Users\Kai\Documents\Visual Studio 2010\Projects\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.TextArea.resources
+C:\Users\Kai\Documents\Visual Studio 2010\Projects\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.TimeArea.resources
+C:\Users\Kai\Documents\Visual Studio 2010\Projects\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.Van.resources
+C:\Users\Kai\Documents\Visual Studio 2010\Projects\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.VideoAera.resources
+C:\Users\Kai\Documents\Visual Studio 2010\Projects\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.Volume.resources
+C:\Users\Kai\Documents\Visual Studio 2010\Projects\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.csproj.GenerateResource.Cache
+C:\Users\Kai\Documents\Visual Studio 2010\Projects\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.exe
+C:\Users\Kai\Documents\Visual Studio 2010\Projects\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.pdb
+C:\Users\Kai\Desktop\文件夹\BX-YQsdk\C#\LedYQNetSdkDemo\LedYQNetSdkDemo\bin\Release\LedYQNetSdkDemo.exe.config
+C:\Users\Kai\Desktop\文件夹\BX-YQsdk\C#\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.exe
+C:\Users\Kai\Desktop\文件夹\BX-YQsdk\C#\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.pdb
+C:\Users\Kai\Desktop\文件夹\BX-YQsdk\C#\LedYQNetSdkDemo\LedYQNetSdkDemo\bin\Release\LedYQNetSdkDemo.exe
+C:\Users\Kai\Desktop\文件夹\BX-YQsdk\C#\LedYQNetSdkDemo\LedYQNetSdkDemo\bin\Release\LedYQNetSdkDemo.pdb
+C:\Users\Kai\Desktop\文件夹\BX-YQsdk\C#\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.Bright.resources
+C:\Users\Kai\Desktop\文件夹\BX-YQsdk\C#\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.Client.resources
+C:\Users\Kai\Desktop\文件夹\BX-YQsdk\C#\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.ClockArea.resources
+C:\Users\Kai\Desktop\文件夹\BX-YQsdk\C#\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.CounterArea.resources
+C:\Users\Kai\Desktop\文件夹\BX-YQsdk\C#\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.DynamicArea.resources
+C:\Users\Kai\Desktop\文件夹\BX-YQsdk\C#\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.FirmWarea.resources
+C:\Users\Kai\Desktop\文件夹\BX-YQsdk\C#\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.Form1.resources
+C:\Users\Kai\Desktop\文件夹\BX-YQsdk\C#\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.ImageArea.resources
+C:\Users\Kai\Desktop\文件夹\BX-YQsdk\C#\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.LunArea.resources
+C:\Users\Kai\Desktop\文件夹\BX-YQsdk\C#\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.Net.resources
+C:\Users\Kai\Desktop\文件夹\BX-YQsdk\C#\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.OnOff.resources
+C:\Users\Kai\Desktop\文件夹\BX-YQsdk\C#\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.PicRef.resources
+C:\Users\Kai\Desktop\文件夹\BX-YQsdk\C#\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.PlayList.resources
+C:\Users\Kai\Desktop\文件夹\BX-YQsdk\C#\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.pProgram.resources
+C:\Users\Kai\Desktop\文件夹\BX-YQsdk\C#\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.Properties.Resources.resources
+C:\Users\Kai\Desktop\文件夹\BX-YQsdk\C#\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.ScreenProperty.resources
+C:\Users\Kai\Desktop\文件夹\BX-YQsdk\C#\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.Server.resources
+C:\Users\Kai\Desktop\文件夹\BX-YQsdk\C#\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.StrPage.resources
+C:\Users\Kai\Desktop\文件夹\BX-YQsdk\C#\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.StrrefPage.resources
+C:\Users\Kai\Desktop\文件夹\BX-YQsdk\C#\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.TextArea.resources
+C:\Users\Kai\Desktop\文件夹\BX-YQsdk\C#\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.TimeArea.resources
+C:\Users\Kai\Desktop\文件夹\BX-YQsdk\C#\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.Van.resources
+C:\Users\Kai\Desktop\文件夹\BX-YQsdk\C#\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.VideoAera.resources
+C:\Users\Kai\Desktop\文件夹\BX-YQsdk\C#\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.Volume.resources
+C:\Users\Kai\Desktop\文件夹\BX-YQsdk\C#\LedYQNetSdkDemo\LedYQNetSdkDemo\obj\x86\Release\LedYQNetSdkDemo.csproj.GenerateResource.Cache

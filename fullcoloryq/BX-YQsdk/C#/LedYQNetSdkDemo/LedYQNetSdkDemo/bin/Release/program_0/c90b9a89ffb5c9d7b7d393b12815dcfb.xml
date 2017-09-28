@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<program DeviceType="0x0458" w="128" h="96" bg_color="0xff000000" bg_image="" level="10" version="2"><picture z_order="1" x="0" y="0" w="128" h="96" path="" transparency="100" fluency_level="1" window_type="1"><pic_unit stay_time="1" display_effects="1" display_speed="1" clear_effects="0" clear_speed="1" pixel_speed="1" order="0" link="1" file="/share/e8551106bf6f85849de22a72c90c8484.bmp"/></picture></program>
