@@ -1,0 +1,52 @@
+{
+ "Screen_Width": 512,
+ "Screen_control": 81,
+ "Screen_color": 1,
+ "ProgramVersion": "17.7.26.0",
+ "Screen_Height": 32,
+ "Project": [
+  {
+   "Pro_playDay_Year": 65535,
+   "Pro_Shared": 0,
+   "Pro_lstPeriodSetting": [],
+   "Pro_SelectStatus": -1,
+   "Pro_endDay_Year": 2018,
+   "Pro_playDay_Month": 9,
+   "Pro_times": 1,
+   "Pro_Dynamic": false,
+   "Pro_useyear": false,
+   "Pro_length": 0,
+   "Pro_idname": "PJ0926165112814",
+   "Pro_ShareList": [],
+   "Pro_endDay_Day": 26,
+   "Pro_id": 0,
+   "Pro_Priority": 0,
+   "Pro_playweek": 255,
+   "Pro_bEditweek": 0,
+   "Pro_name": "\u8282\u76ee-1",
+   "Pro_Type": 0,
+   "Pro_playDay_Day": 26,
+   "Pro_endDay_Month": 9,
+   "Pro_showstyle": 7,
+   "Pro_tagFrameSetting": [
+    {
+     "Pro_Frame_MoveStep": 1,
+     "Pro_Frame_DispOtherFile": "",
+     "Pro_Frame_Reserved7": 0,
+     "Pro_Frame_Reserved6": 0,
+     "Pro_Frame_Reserved5": 0,
+     "Pro_Frame_Reserved4": 0,
+     "Pro_Frame_Reserved3": 0,
+     "Pro_Frame_Reserved2": 0,
+     "Pro_Frame_Reserved1": 0,
+     "Pro_Frame_DispWidth": 0,
+     "Pro_Frame_DispStype": 1,
+     "Pro_Frame_DispSpeed": 5,
+     "Pro_Frame_DispColor": 1,
+     "Pro_Frame_DispMode": 0,
+     "Pro_Frame_DispLine": 2,
+     "Pro_Frame_DispFlag": 0
+    }],
+   "Pro_lstArea": []
+  }]
+}
